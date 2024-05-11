@@ -1,0 +1,5 @@
+Data Structrues:4#COMP2421#Computer Science/recursion, time analysis, linked lists, stacks, queues, trees, bst, avl, splay, b_trees, hash, heaps, sorting, graphs
+Introduction to programming:3#COMP133#Computer Science/algorithms, introduction to c, functions, selection, loops, pointers, arrays, structs
+Signlas & Systems:3#ENEE2312#Electrical Engineering/Signals, systems, forier series, discrete signals
+Physics Lab:1#PHYS112#Physics Department/Circuit, Capacitor, Inductor, superposition, norton
+Digital Lab:1#ENEE2110#Electrical Engineering/AND NOT OR NAND NOR, MUX DE-MUX Decoder encoder, verilog
